@@ -82,7 +82,7 @@ export default function App() {
         </div>
 
         <p className="hero-tagline">
-          Discover recipes that match your mood
+          Cook smarter with taste-driven discovery.
         </p>
 
         {/* 🔍 SEARCH — PRESS ENTER TO SEARCH */}
