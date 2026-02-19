@@ -86,3 +86,5 @@ npm start
 
 ## 📜 License
 Developed as part of the **Securin Placement Project**. All rights reserved.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/248ee22b-5369-49df-9b97-fc69e6233390" />
